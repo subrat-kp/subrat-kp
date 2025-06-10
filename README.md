@@ -4,6 +4,8 @@ owner:
   username: subrat-kp
   greet: Hi👋, I am Subrat😄.
   role: I am a full-stack engineer.
+  org: Samsung Research
+  dept: SRI-B
 ```
 
 <!--
