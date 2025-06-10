@@ -1,8 +1,9 @@
 ```yaml
 owner:
   name: Subrat Kumar Pattanaik
+  username: subrat-kp
   greet: Hi👋, I am Subrat😄.
-  experience: I am a full-stack engineer with about 4 years of experience.
+  role: I am a full-stack engineer.
 ```
 
 <!--
