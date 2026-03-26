@@ -3,7 +3,7 @@ owner:
   name: Subrat Kumar Pattanaik
   username: subrat-kp
   greet: Hi👋, I am Subrat😄.
-  role: I am a full-stack engineer.
+  role: Full-Stack Engineer
   org: Samsung Research
   dept: SRI-B
 ```
